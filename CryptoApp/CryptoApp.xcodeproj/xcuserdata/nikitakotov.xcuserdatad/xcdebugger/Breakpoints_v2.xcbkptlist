@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B35F7D68-7BDE-4E0C-837A-AE0D3068ED77"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F7C9F79-1EEC-4116-837B-CAC4B7065940"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoApp/Core/Components/CircleButton/CircleButtonAnimationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CircleButtonAnimationView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "1F7C9F79-1EEC-4116-837B-CAC4B7065940 - 84faf5a8aa6677b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoApp.CircleButtonAnimationView.animate.getter : Swift.Bool"
+                  moduleName = "CryptoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitakotov/Desktop/xCode%20Project/CryptoApp/CryptoApp/Core/Components/CircleButton/CircleButtonAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "1F7C9F79-1EEC-4116-837B-CAC4B7065940 - 950c4950e1b95f82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoApp.CircleButtonAnimationView.animate.setter : Swift.Bool"
+                  moduleName = "CryptoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitakotov/Desktop/xCode%20Project/CryptoApp/CryptoApp/Core/Components/CircleButton/CircleButtonAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "1F7C9F79-1EEC-4116-837B-CAC4B7065940 - 783bdfe78ac659b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoApp.CircleButtonAnimationView.animate.modify : Swift.Bool"
+                  moduleName = "CryptoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitakotov/Desktop/xCode%20Project/CryptoApp/CryptoApp/Core/Components/CircleButton/CircleButtonAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "1F7C9F79-1EEC-4116-837B-CAC4B7065940 - e12537290dedb2b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoApp.CircleButtonAnimationView.animate.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CryptoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitakotov/Desktop/xCode%20Project/CryptoApp/CryptoApp/Core/Components/CircleButton/CircleButtonAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "1F7C9F79-1EEC-4116-837B-CAC4B7065940 - 343fae44405577ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoApp.CircleButtonAnimationView.$animate.getter : SwiftUI.Binding&lt;Swift.Bool&gt;"
+                  moduleName = "CryptoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitakotov/Desktop/xCode%20Project/CryptoApp/CryptoApp/Core/Components/CircleButton/CircleButtonAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
